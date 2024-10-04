@@ -22,16 +22,8 @@ This project allows you to create and export custom Anki flashcard decks using P
    git clone https://github.com/your-username/Python-to-Anki.git
    cd Python-to-Anki
 2. Install the required Python package:
-  ```bash
-    pip install genanki
---
-## Installation
-
-To install the required package, run:
-
-```bash
-pip install genanki
-```
+   ```bash
+   pip install genanki
 
 ## Usage
 
@@ -77,7 +69,9 @@ cards = [
     # Add more cards here
 ]
 ```
----
+
+
+
 
 ### License
 
