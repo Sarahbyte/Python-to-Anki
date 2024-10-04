@@ -25,6 +25,14 @@ This project allows you to create and export custom Anki flashcard decks using P
   ```bash
     pip install genanki
 --
+## Installation
+
+To install the required package, run:
+
+```bash
+pip install genanki
+```
+
 ## Usage
 
 To create your Anki deck, follow these steps:
@@ -56,6 +64,21 @@ You can modify the deck name by editing the `self.deck_name` variable in the `de
 
 ```python
 self.deck_name = "Your Custom Deck Name"
---
+```
+
+### Adding More Cards
+
+You can add more cards by extending the `cards` list in the `main.py` script.
+
+```python
+cards = [
+    ("Front of card 1", "Back of card 1"),
+    ("Front of card 2", "Back of card 2"),
+    # Add more cards here
+]
+```
+
 ### License
+
 This project is under the MIT License.
+```
