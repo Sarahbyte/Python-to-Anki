@@ -77,6 +77,7 @@ cards = [
     # Add more cards here
 ]
 ```
+---
 
 ### License
 
