@@ -1,5 +1,5 @@
 # Python-to-Anki Deck Generator
-
+![alt text](![image](https://github.com/user-attachments/assets/1d9f2bf2-4eb8-4325-afd9-b7f5d38770be))
 This project allows you to create and export custom Anki flashcard decks using Python and the `genanki` library. The deck generated in this project focuses on "Professional Ethics in Computing," but it can be customized for any subject or content.
 
 ## Features
