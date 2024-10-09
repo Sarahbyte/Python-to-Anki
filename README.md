@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a4bb7ce0-48f3-468b-9382-fd751b01f468" alt="alt text" width="400" height="400"/>
 </p>
-This project allows you to create and export custom Anki flashcard decks using Python and the `genanki` library. The deck generated in this project focuses on "Professional Ethics in Computing," but it can be customized for any subject or content.
+This project allows you to create and export custom Anki flashcard decks using Python and the genanki library. The deck generated in this project focuses on "Professional Ethics in Computing," but it can be customized for any subject or content.
 
 ## Features
 
